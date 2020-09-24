@@ -1,5 +1,6 @@
 # ecom
 This is a demo ecommerce website in progress.
-What i am learning while building this website.
+Tools I have used.
     Python with Django framework
     Bootstrap
+    HTML and CSS
